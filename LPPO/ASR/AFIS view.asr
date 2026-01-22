@@ -1,0 +1,32 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - GNG\LPPO-Package_20260121213858-251301-0001.sct
+SECTORTITLE:LPPO-Package_20260121213858-251301-0001.sct
+ARTCC low boundary:FIZ LPCR Corvo ATZ:
+ARTCC low boundary:FIZ LPGR Graciosa ATZ:
+ARTCC low boundary:FIZ LPPI Pico ATZ:
+ARTCC low boundary:FIZ LPSJ Sao Jorge ATZ:
+Geo:LPCR Groundlayout:
+Geo:LPGR Groundlayout:
+Geo:LPPI Groundlayout:
+Geo:LPPO Landmark Islands Contour:
+Geo:LPSJ Groundlayout:
+Regions:LPCR Groundlayout:polygon
+Regions:LPGR Groundlayout:polygon
+Regions:LPPI Groundlayout:polygon
+Regions:LPSJ Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky LP
+WINDOWAREA:36.296694:-33.422278:41.364160:-21.680492

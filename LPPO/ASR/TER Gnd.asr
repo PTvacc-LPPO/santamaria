@@ -1,0 +1,63 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+ARTCC low boundary:Tower CTR LPLA Lajes:
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\C1A:freetext
+Free Text:SCT2\C1B:freetext
+Free Text:SCT2\C2:freetext
+Free Text:SCT2\C3:freetext
+Free Text:SCT2\C4:freetext
+Free Text:SCT2\C5:freetext
+Free Text:SCT2\C6:freetext
+Free Text:SCT2\C7:freetext
+Free Text:SCT2\C8:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\G:freetext
+Free Text:SCT2\H:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\J:freetext
+Free Text:SCT2\M:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Free Text:SCT2\P:freetext
+Geo:LPLA Groundlayout:
+Geo:LPPO Landmark Azores Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:12000
+LEADER:-4
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:129.87
+TAGFAMILY:TopSky LP
+WINDOWAREA:38.731969:-27.117301:38.795560:-27.068211
+PLUGIN:Ground Radar plugin:AirportElevation:180
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:LPLA
+PLUGIN:TopSky plugin:NoDraw:1

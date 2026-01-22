@@ -1,0 +1,122 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:LPCR:symbol
+Airports:LPFL:symbol
+Airports:LPGR:symbol
+Airports:LPPI:symbol
+Airports:LPSJ:symbol
+ARTCC boundary:FIR border LPPO:
+ARTCC boundary:Horta Approach:
+ARTCC boundary:Lajes Approach:
+ARTCC boundary:LPPO AIC:
+ARTCC boundary:Ponta Delgada Approach:
+ARTCC high boundary:LPPO Positional GRID:
+ARTCC low boundary:FIZ LPCR Corvo ATZ:
+ARTCC low boundary:FIZ LPGR Graciosa ATZ:
+ARTCC low boundary:FIZ LPPI Pico ATZ:
+ARTCC low boundary:FIZ LPSJ Sao Jorge ATZ:
+ARTCC low boundary:MRVA LPHR:
+ARTCC low boundary:MRVA LPPD:
+Fixes:ABALO:name
+Fixes:ABALO:symbol
+Fixes:CUDLY:name
+Fixes:CUDLY:symbol
+Fixes:DOLER:symbol
+Fixes:ELBEN:symbol
+Fixes:GIRIX:name
+Fixes:GIRIX:symbol
+Fixes:GOXAS:name
+Fixes:GOXAS:symbol
+Fixes:IRKID:name
+Fixes:IRKID:symbol
+Fixes:KOGON:name
+Fixes:KOGON:symbol
+Fixes:LADOX:symbol
+Fixes:LUTAK:name
+Fixes:LUTAK:symbol
+Fixes:MANOX:name
+Fixes:MANOX:symbol
+Fixes:MIPRU:symbol
+Fixes:NAVIX:name
+Fixes:NAVIX:symbol
+Fixes:NAVPO:symbol
+Fixes:NELSO:name
+Fixes:NELSO:symbol
+Fixes:NOTMA:name
+Fixes:NOTMA:symbol
+Fixes:OBUDA:symbol
+Fixes:OLDEK:symbol
+Fixes:PETUD:symbol
+Fixes:REGLA:symbol
+Fixes:RODIL:symbol
+Fixes:SIPRU:symbol
+Fixes:SM452:name
+Fixes:SM452:symbol
+Fixes:SM453:name
+Fixes:SM453:symbol
+Fixes:SM454:name
+Fixes:SM454:symbol
+Fixes:SM455:symbol
+Fixes:SM456:symbol
+Fixes:SOLGI:name
+Fixes:SOLGI:symbol
+Fixes:SOMUL:symbol
+Fixes:TIMTO:symbol
+Fixes:TUSEX:name
+Fixes:TUSEX:symbol
+Fixes:URATU:name
+Fixes:URATU:symbol
+Fixes:VELAS:name
+Fixes:VELAS:symbol
+Fixes:XORVU:symbol
+Fixes:XUVAP:name
+Fixes:XUVAP:symbol
+Geo:LPPO Landmark Azores Coastline:
+Geo:LPPO Landmark EUR/AFI Coastline:
+High airways:T13:line
+High airways:T16:line
+NDBs:PD:symbol
+Runways:LPAZ 18-36:centerline
+Runways:LPAZ 18-36:extended centerline 1
+Runways:LPAZ 18-36:extended centerline 2
+Runways:LPAZ 18-36:name
+Runways:LPCR 11-29:centerline
+Runways:LPFL 18-36:centerline
+Runways:LPFL 18-36:name
+Runways:LPGR 09-27:centerline
+Runways:LPHR 10-28:centerline
+Runways:LPHR 10-28:name
+Runways:LPLA 15-33:centerline
+Runways:LPLA 15-33:extended centerline 1
+Runways:LPLA 15-33:extended centerline 2
+Runways:LPLA 15-33:name
+Runways:LPPD 12-30:centerline
+Runways:LPPD 12-30:extended centerline 1
+Runways:LPPD 12-30:extended centerline 2
+Runways:LPPD 12-30:name
+Runways:LPPI 09-27:centerline
+Runways:LPSJ 13-31:centerline
+Sids:LPPO Area 0 - VHF Coverage:
+Sids:LPPO Area 1:
+Sids:LPPO Area 2:
+VORs:LM:symbol
+VORs:VFL:symbol
+VORs:VMG:symbol
+VORs:VSM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:PT vACC - NORM
+WINDOWAREA:18.967207:-68.984807:52.549535:1.980784

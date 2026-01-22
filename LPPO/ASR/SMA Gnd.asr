@@ -1,0 +1,40 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+ARTCC low boundary:Tower CTR LPAZ Santa Maria:
+Free Text:SCT2\1:freetext
+Free Text:SCT2\1A:freetext
+Free Text:SCT2\2:freetext
+Free Text:SCT2\2A:freetext
+Free Text:SCT2\3:freetext
+Free Text:SCT2\3A:freetext
+Free Text:SCT2\4:freetext
+Free Text:SCT2\4A:freetext
+Free Text:SCT2\5:freetext
+Free Text:SCT2\5A:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\E:freetext
+Geo:LPAZ Groundlayout:
+Geo:LPPO Landmark Azores Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:12000
+LEADER:-4
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:99.00000
+TAGFAMILY:TopSky LP
+WINDOWAREA:36.944693:-25.203664:37.006150:-25.132481
+PLUGIN:Ground Radar plugin:AirportElevation:180
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:LPAZ
+PLUGIN:TopSky plugin:NoDraw:1

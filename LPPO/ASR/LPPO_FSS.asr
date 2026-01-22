@@ -1,0 +1,36 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+ARTCC low boundary:AoR APP LPFL LPFL APP:
+ARTCC low boundary:AoR APP LPHR LPHR APP:
+ARTCC low boundary:AoR APP LPLA LPLA APP:
+ARTCC low boundary:AoR APP LPPD LPPD APP:
+ARTCC low boundary:FIZ LPCR Corvo ATZ:
+ARTCC low boundary:FIZ LPGR Graciosa ATZ:
+ARTCC low boundary:FIZ LPPI Pico ATZ:
+ARTCC low boundary:FIZ LPSJ Sao Jorge ATZ:
+ARTCC low boundary:Tower CTR LPAZ Santa Maria:
+ARTCC low boundary:Tower CTR LPFL Flores:
+ARTCC low boundary:Tower CTR LPHR Horta:
+ARTCC low boundary:Tower CTR LPLA Lajes:
+ARTCC low boundary:Tower CTR LPPD Ponta Delgada:
+Geo:LPPO Landmark Islands Contour:
+Sids:LPPO Area 0 - VHF Coverage:
+Sids:LPPO Area 1:
+Sids:LPPO Area 2:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-4
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky LP
+WINDOWAREA:30.803441:-37.474217:46.162438:-19.684744

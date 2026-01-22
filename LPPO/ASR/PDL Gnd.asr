@@ -1,0 +1,47 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:Ground Radar plugin:GroundMode:LPPD
+PLUGIN:Ground Radar plugin:AirportElevation:259
+PLUGIN:Ground Radar plugin:AirportRadius:2.2
+
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+ARTCC low boundary:Tower CTR LPPD Ponta Delgada:
+Free Text:SCT2\A:freetext
+Free Text:SCT2\B:freetext
+Free Text:SCT2\C:freetext
+Free Text:SCT2\D:freetext
+Free Text:SCT2\E:freetext
+Free Text:SCT2\F:freetext
+Free Text:SCT2\W1:freetext
+Free Text:SCT2\W10:freetext
+Free Text:SCT2\W11:freetext
+Free Text:SCT2\W12:freetext
+Free Text:SCT2\W2:freetext
+Free Text:SCT2\W3:freetext
+Free Text:SCT2\W4:freetext
+Free Text:SCT2\W5:freetext
+Free Text:SCT2\W6:freetext
+Free Text:SCT2\W7:freetext
+Free Text:SCT2\W8:freetext
+Free Text:SCT2\W9:freetext
+Geo:LPPD Groundlayout:
+Geo:LPPO Landmark Azores Coastline:
+Regions:LPPD Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:12000
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:158.30000
+TAGFAMILY:TopSky LP
+WINDOWAREA:37.697638:-25.740369:37.761958:-25.665870

@@ -1,0 +1,31 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+ARTCC low boundary:Tower CTR LPHR Horta:
+Free Text:SCT2\1:freetext
+Free Text:SCT2\2:freetext
+Free Text:SCT2\3:freetext
+Free Text:SCT2\A:freetext
+Free Text:SCT2\B:freetext
+Geo:LPHR Groundlayout:
+Geo:LPPO Landmark Azores Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:12000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:180.00000
+TAGFAMILY:TopSky LP
+WINDOWAREA:38.514615:-28.729392:38.525874:-28.702989
+PLUGIN:Ground Radar plugin:AirportElevation:117
+PLUGIN:Ground Radar plugin:AirportRadius:1.9
+PLUGIN:Ground Radar plugin:GroundMode:LPHR
+PLUGIN:TopSky plugin:NoDraw:1

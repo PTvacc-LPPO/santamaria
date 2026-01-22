@@ -1,0 +1,77 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:FIR border LPPO:
+ARTCC boundary:Horta Approach:
+ARTCC boundary:Lajes Approach:
+ARTCC boundary:LPPO AIC:
+ARTCC boundary:Ponta Delgada Approach:
+ARTCC boundary:Route LPPO CTP TRACKS:
+Fixes:3640N:name
+Fixes:3640N:symbol
+Fixes:4340N:name
+Fixes:4340N:symbol
+Fixes:4420N:name
+Fixes:4420N:symbol
+Fixes:4430N:name
+Fixes:4430N:symbol
+Fixes:4440N:name
+Fixes:4440N:symbol
+Fixes:4520N:name
+Fixes:4520N:symbol
+Fixes:4530N:name
+Fixes:4530N:symbol
+Fixes:ARMED:name
+Fixes:ARMED:symbol
+Fixes:BANAL:name
+Fixes:BANAL:symbol
+Fixes:DETOX:name
+Fixes:DETOX:symbol
+Fixes:EKNUT:name
+Fixes:EKNUT:symbol
+Fixes:ERPES:name
+Fixes:ERPES:symbol
+Fixes:GUNTI:name
+Fixes:GUNTI:symbol
+Fixes:HIDRA:name
+Fixes:HIDRA:symbol
+Fixes:IPSIN:name
+Fixes:IPSIN:symbol
+Fixes:IXIKU:name
+Fixes:IXIKU:symbol
+Fixes:KETID:name
+Fixes:KETID:symbol
+Fixes:KOMUT:name
+Fixes:KOMUT:symbol
+Fixes:KOPAS:name
+Fixes:KOPAS:symbol
+Fixes:KUXOV:name
+Fixes:KUXOV:symbol
+Fixes:LUTAK:name
+Fixes:LUTAK:symbol
+Fixes:MUDOS:name
+Fixes:MUDOS:symbol
+Fixes:NUMGI:name
+Fixes:NUMGI:symbol
+Fixes:RETEN:name
+Fixes:RETEN:symbol
+Free Text:SCT2\FL365-UNL 130.050:freetext
+Free Text:SCT2\GND-FL365 130.0:freetext
+Geo:LPPO Landmark Azores Coastline:
+Geo:LPPO Landmark EUR/AFI Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:TopSky LP
+WINDOWAREA:20.128910:-57.691686:51.062904:14.638524

@@ -1,0 +1,22 @@
+SEL
+m_Visible:1
+m_X:993
+m_Y:1853
+m_LineNumber:15
+m_Resizable:1
+m_OrderingColumn:-1
+m_HeaderOnly:1
+m_Column: C/S:9:0:10021:6:1:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:RT:2:0:58:32:32:1:TopSky plugin:::0:0.0
+m_Column:CFL:5:1:10049:12:59:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:NSSR:6:1:109:62:81:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:COPX:6:0:10065:99:0:1:TopSky plugin:TopSky plugin::0:0.0
+m_Column:ETX:4:1:10017:0:0:1:TopSky plugin:::1:0.0
+m_Column:OCM:6:1:120:0:0:1:UK Controller Plugin:::0:0.0
+m_Column:MACH:6:1:10037:15:12:1:TopSky plugin:::0:0.0
+m_Column:ADES:5:1:10008:1001:7:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SI:4:1:10014:20:42:1:TopSky plugin::TopSky plugin:1:0.0
+m_Column:XFL:4:1:10003:105:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:SEL:6:1:128:144:150:1:UK Controller Plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:OP_TEXT:8:1:10058:11:0:1:TopSky plugin:TopSky plugin::1:0.0
+END

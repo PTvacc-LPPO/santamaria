@@ -1,0 +1,25 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Software\EuroScope\Countries\Portugal\Santa Maria - Dev\lppo dev.sct
+SECTORTITLE:lppo dev.sct
+Geo:LPSJ Groundlayout:
+Regions:LPSJ Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:7.20000
+TAGFAMILY:TopSky LP
+WINDOWAREA:38.543032:-28.456769:38.566422:-28.429677
+PLUGIN:Ground Radar plugin:AirportElevation:335
+PLUGIN:Ground Radar plugin:AirportRadius:2.2
+PLUGIN:Ground Radar plugin:GroundMode:LPPI
+PLUGIN:TopSky plugin:NoDraw:1
