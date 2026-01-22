@@ -1,0 +1,85 @@
+Settings	alias	\LPPO\Alias\alias.txt
+Settings	airlines	\LPPO\ICAO\ICAO_Airlines.txt
+Settings	airports	\LPPO\ICAO\ICAO_Airports.txt
+Settings	aircraft	\LPPO\ICAO\ICAO_Aircraft.txt
+Settings	Settingsfile	\LPPO\Settings\General_TopSky.txt
+Settings	AtisFolder	\LPPO\ATIS\atisfiles.txt
+Settings	SettingsfileSYMBOLOGY	\LPPO\Settings\Symbology_TopSky.txt
+Settings	SettingsfileVOICE	\LPPO\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\LPPO\Settings\Settings.txt
+Settings	SettingsfileTAGS	\LPPO\Settings\Tags_TopSky.txt
+Settings	SettingsfileSIL	\LPPO\Settings\SectorInboundList_TopSky.txt
+Settings	SettingsfileSEL	\LPPO\Settings\SectorExitList_TopSky.txt
+Settings	SettingsfileDEP	\LPPO\Settings\DepartureList_TopSky.txt
+Settings	SettingsfileARR	\LPPO\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\LPPO\Settings\FPList_TopSky.txt
+Settings	SettingsfilePLUGINS	\LPPO\Settings\Plugins.txt
+Settings	SettingsfileSCREEN	\LPPO\Settings\Screen_TopSky.txt
+Settings	SettingsfileCONFLICT	\LPPO\Settings\Conflict_TopSky.txt
+Settings	SettingsfileVCCS	\LPPO\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\LPPO\Settings\General_TopSky.txt
+Settings	ipaddr	\ipaddr.txt
+Settings	airways	\LPPO\NavData\airway.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\LPPO\Plugins\topsky\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\LPPO\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2	\LPPO\Plugins\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\LPPO\Plugins\VATCANBookings.dll
+Plugins	Plugin4	\LPPO\Plugins\UKPlugin\UKControllerPlugin.dll
+Plugins	Plugin5	\LPPO\Plugins\euroNAT\euroNAT.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+ASRFastKeys	1	\LPPO\ASR\LPPO_FSS.asr
+ASRFastKeys	2	\LPPO\ASR\AFIS view.asr
+ASRFastKeys	3	\LPPO\ASR\PDL Gnd.asr
+ASRFastKeys	4	\LPPO\ASR\SMA Gnd.asr
+ASRFastKeys	5	\LPPO\ASR\TER Gnd.asr
+ASRFastKeys	6	\LPPO\ASR\HOR Gnd.asr
+ASRFastKeys	7	\LPPO\ASR\FLW Gnd.asr
+RecentFiles	Recent1	\LPPO\ASR\LPPO_FSS.asr
+TeamSpeakVccs	TsVccsMiniControlX	715
+TeamSpeakVccs	TsVccsMiniControlY	26
+LastSession	atis_freq0	123900
+LastSession	atis_callsign0	LPPD_ATIS
+LastSession	atis_url0	https://vatatis.vatsim.pt/generate?lvo=FALSE&icao=$atisairport&runway=$arrrwy($atisairport)&info=$atiscode
+LastSession	atis_letter0	84
+LastSession	atis_message0	
+LastSession	atis_freq1	120300
+LastSession	atis_callsign1	LPLA_ATIS
+LastSession	atis_url1	https://vatatis.vatsim.pt/generate?lvo=FALSE&icao=$atisairport&runway=$arrrwy($atisairport)&info=$atiscode
+LastSession	atis_letter1	84
+LastSession	atis_message1	
+LastSession	atis_freq2	126100
+LastSession	atis_callsign2	LPHR_ATIS
+LastSession	atis_url2	https://vatatis.vatsim.pt/generate?lvo=FALSE&icao=$atisairport&runway=$arrrwy($atisairport)&info=$atiscode
+LastSession	atis_letter2	84
+LastSession	atis_message2	
+Settings	sector	\lppo dev.sct
+Sounds	Sound0	\Sounds\handoff_request.wav
+Sounds	Sound1	\Sounds\handoff_accept.wav
+Sounds	Sound2	\Sounds\conflict_alert.wav
+Sounds	Sound3	\Sounds\radio_message.wav
+Sounds	Sound4	\Sounds\private_message.wav
+Sounds	Sound5	\Sounds\atc_message.wav
+Sounds	Sound6	\Sounds\broadcast_message.wav
+Sounds	Sound7	\Sounds\landline_request.wav
+Sounds	Sound8	\Sounds\supervisor_message.wav
+Sounds	Sound9	\Sounds\connected.wav
+Sounds	Sound10	\Sounds\disconnected.wav
+Sounds	Sound11	\Sounds\ongoing_request.wav
+Sounds	Sound12	\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\Sounds\ongoing_refused.wav
+Sounds	Sound14	\Sounds\ongoing_manual.wav
+Sounds	Sound15	\Sounds\new_atis.wav
+Sounds	Sound16	\Sounds\handoff_refused.wav
+Sounds	Sound17	\Sounds\pointout.wav
+LastSession	simdatapublish	0
+TeamSpeakVccs	TsVccsMiniControlX	1396
+TeamSpeakVccs	TsVccsMiniControlY	24
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
